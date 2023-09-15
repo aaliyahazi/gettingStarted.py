@@ -17,14 +17,14 @@ def welcome_assignment_answers(question):
         answer = "pcap"
     #4
     elif question == "Is it possible to decode a message without a key? - Yes/No":
-        answer = "No"
+        answer = "Yes"
     #5
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
-        answer = "Yes"
+        answer = "No"
     #6
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
-        answer = "Yes"
-    #7 NOTE
+        answer = "No"
+    #7
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
         answer = '7c80a071b2fb1a5e0dc4af36d3d7b6d61468d6cd87284f0b46da4a1cd7e27b92'
     #8
